@@ -330,7 +330,7 @@
 							<section>
 							<p class="work-menu"><span><strong>개인 프로젝트</a></strong></span><span><strong>팀 프로젝트</strong></span><span><strong>기능 학습</strong></span><span><strong>Business</strong></span></p>
 							</section>
-							<!-- <p class="work-menu"><span><strong><a href="http://www.jangcar.co.kr" target="_blank" class="active">개인 프로젝트</a></strong></span> <span><strong><a href="https://www.personalconnect.co.kr" target="_blank" class="active">팀 프로젝트</a></strong></span><span><strong><a href="http://www.riceplanner.com" target="_blank" class="active">청춘정미소</a></strong></span> <span><strong>Web Project</strong></span> <span> --><!-- <a href="#">Software</a></span> <span><a href="#">Apps</a></span></p> -->
+							<!-- <p class="work-menu"><span><strong><a href="#" target="_blank" class="active">개인 프로젝트</a></strong></span> <span><strong><a href="https://www.personalconnect.co.kr" target="_blank" class="active">팀 프로젝트</a></strong></span><span><strong><a href="http://www.riceplanner.com" target="_blank" class="active">청춘정미소</a></strong></span> <span><strong>Web Project</strong></span> <span> --><!-- <a href="#">Software</a></span> <span><a href="#">Apps</a></span></p> -->
 						</div>
 					</div>
 
@@ -342,7 +342,7 @@
 							<div class="project" style="background-image: url(images/image1.PNG);">
 								<div class="desc">
 									<div class="con">
-										<h3><a href="http://www.jangcar.co.kr" target="_blank" >Github 메인 사이트 따라 제작하기</a></h3>
+										<h3><a href="#" target="_blank" >Github 메인 사이트 따라 제작하기</a></h3>
 										<span>HTML/CSS/JAVASCRIPT를 이용하여 Github의 메인페이지를 따라 제작해보았습니다. 기본적인 프론트 언어를 학습하기 위해 실습해보았습니다.</span>
 										<p class="icon">
 											<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
@@ -383,7 +383,7 @@
 										<p class="icon">
 											<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
 											<span><a href="https://youtu.be/a0iCDLp_bP0" target="_blank"><i class="icon-eye"></i> 시연 영상</a></span>
-											<span><a href="pdf/펫브리띵 상세보기.pdf" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
+											<span><a href="pdf/펫브리띵 상세보기.pdf"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
 										</p>
 									</div>
 								</div>

@@ -130,7 +130,7 @@
 										<span class="heading-meta">About Me </span>
 										<h2 class="colorlib-heading">"JAVA / SPRING Backend Developer"</h2>
 										<p><strong>"안녕하세요. 신입 JAVA/SPRING 개발자가 되고 싶은 이승연입니다."</strong></p> 
-                                        <p>사람들과 어울리는 것을 좋아하고 어디서나 빠르게 적응하는 밝은 성격 덕분에 졸업 후, 바로 개발자로 취업하기 보다는 <strong>'25전에 다양한 경험을 해보고 진로를 선택해도 늦지 않다 !'</strong> 라는 생각으로 서비스업 및 마케팅 분야에서 사회생활 경험을 쌓았습니다.  
+                                        <p>사람들과 어울리는 것을 좋아하고 어디서나 빠르게 적응하는 밝은 성격 덕분에 졸업 후, 바로 개발자로 취업하기 보다는 <strong>'25세전에 다양한 경험을 해보고 진로를 선택해도 늦지 않다 !'</strong> 라는 생각으로 서비스업 및 마케팅 분야에서 사회생활 경험을 쌓았습니다.  
                                            작년, 광고회사에서 <strong>웹 개발 전공자인</strong> 저에게, 간단한 프론트 업무를 맡겨주셨고, 다시금 <strong>코딩의 재미를 느낄 수 있었습니다.</strong>
                                             그 이후로, 퇴사를 결정하고 다시 개발자의 길을 가야겠다 생각했고 그 간의 개발 공백을 채우기 위해 
                                             교육원과 인터넷 강의를 통해 늦은 만큼 누구보다 열심히 더 공부하고 있습니다.
@@ -381,8 +381,8 @@
                                         </span>
 										<p class="icon">
 											<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
-											<span><a href="video/시연영상.mp4" target="_blank"><i class="icon-eye"></i> 시연 영상</a></span>
-											<span><a href="pdf/펫브리띵 상세보기.pdf" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
+											<span><a href="https://youtu.be/a0iCDLp_bP0" target="_blank"><i class="icon-eye"></i> 시연 영상</a></span>
+											<span><a href="" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
 										</p>
 									</div>
 								</div>
@@ -410,7 +410,7 @@
                                         </span>
 										<p class="icon">
 											<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
-											<span><a href="video/구해줘잡스씨 시연영상.mp4" target="_blank"><i class="icon-eye"></i> 시연영상</a></span>
+											<span><a href="https://youtu.be/jFyZMXoFNK0" target="_blank"><i class="icon-eye"></i> 시연영상</a></span>
 											<span><a href="pdf/도와줘 잡스씨 상세보기.pdf" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
 										</p>
 									</div>

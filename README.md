@@ -1,6 +1,7 @@
 # yeonee-dev.github.io
 
 
+
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -382,7 +383,7 @@
 										<p class="icon">
 											<!-- <span><a href="#"><i class="icon-share3"></i></a></span> -->
 											<span><a href="https://youtu.be/a0iCDLp_bP0" target="_blank"><i class="icon-eye"></i> 시연 영상</a></span>
-											<span><a href="" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
+											<span><a href="pdf/펫브리띵 상세보기.pdf" target="_blank"><i class="icon-data"></i> 구현 기능 상세보기</a></span>
 										</p>
 									</div>
 								</div>
